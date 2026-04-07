@@ -114,6 +114,4 @@ fi
 . "$HOME/.cargo/env"
 
 export PATH="$HOME/.local/bin:$PATH"
-export CLAUDE_CODE_MAX_OUTPUT_TOKENS=50000
-export MAX_MCP_OUTPUT_TOKENS=50000
 export PATH="$HOME/.local/share/nvim/mason/bin:$PATH"
